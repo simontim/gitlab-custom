@@ -4,4 +4,4 @@ RUN useradd gituser
 
 USER gituser
 
-CMD["/usr/bin/local/wrapper"]
+CMD ["/usr/bin/local/wrapper"]
